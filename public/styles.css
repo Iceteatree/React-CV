@@ -1,0 +1,140 @@
+/* Styling is done via classes. Like a custom bootstrap. My own version*/
+
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Roboto", sans-serif
+}
+
+.light-grey {
+    color:#000;
+    background-color:#f1f1f1;
+}
+
+.large {
+    font-size:18px;
+}
+
+.xxlarge {
+    font-size: 36px;
+}
+
+.small {
+    font-size:12px;
+}
+
+.margin-right {
+    margin-right:16px;
+}
+
+.margin-bottom {
+    margin-bottom:16px;
+}
+
+.margin-top {
+    margin-top:16px;
+}
+
+.third {
+    float: left;
+    width:33.33333%;
+}
+
+.twothird {
+    float: left;
+    width:66.666666%;
+    padding: 0 8px;
+}
+
+
+.text-teal {
+    color:#009688
+}
+
+text-grey {
+    color:#757575
+}
+
+.teal {
+    background-color:#009688
+}
+
+.white {
+    background-color: #fff;
+}
+
+.opacity {
+    opacity:0.60;
+}
+
+.display-container {
+    position: relative;
+}
+
+.container {
+    text-align: center;
+}
+
+.container2 {
+    padding:0.01em 16px;
+}
+
+.center {
+    text-align: center;
+}
+
+.round {
+    border-radius:4px;
+}
+
+.round-xlarge {
+    border-radius:16px;
+}
+
+hover-opacity:hover {
+    opacity:0.60;
+}
+
+.tag {
+    color:#fff;
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    text-align:center;
+}
+
+.content {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+padding-16 {
+    padding: 16px auto;
+}
+
+.card {
+    box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.card2 {
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+}
+
+.social-area i {
+    padding: 0 0.8rem 2rem 0.8rem;
+    font-size: 26px;
+}
+
+.social-area i:hover {
+    color: #009688
+}
+
+.alans-Face {
+    width: 50%;
+    margin: 2rem 7rem;
+}
